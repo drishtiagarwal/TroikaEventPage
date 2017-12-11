@@ -2,7 +2,6 @@
 body {
   font-family: 'Josefin-Sans',sans-serif;
     position: relative;
-  background-image: url("background.jpg");
 }
 h1{
   color: #fff;
@@ -269,7 +268,10 @@ figure.effect-bubba h6{
     flex-direction: column;
     display: flex;*/
     vertical-align: middle;
-    font-size: 40px;
+    font-size: 35px;
+}
+figure.effect-bubba h6 smallsize{
+    font-size: 25px;
 }
 figure.effect-bubba img {
 	opacity: 1;
