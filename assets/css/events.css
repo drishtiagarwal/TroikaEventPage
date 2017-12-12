@@ -73,7 +73,7 @@ hr{
 	border: 1.5px solid #dafcff;
     width: 20%!important;
     text-align: center;
-
+    
 }
 
 .eventcontainer{
@@ -86,9 +86,8 @@ hr{
 
 .title {
   color: white;
-  font-size: 1.4em;
+  font-size: 1.5em;
   font-weight: lighter;
-
 }
 
 /* ---- button ---- */
@@ -246,7 +245,7 @@ hr{
 
 .events figure p {
 	letter-spacing: 1px;
-	font-size: 64%;
+	font-size: 68.5%;
   font-weight: 800;
 }
 
@@ -269,9 +268,11 @@ figure.effect-bubba h6{
     flex-direction: column;
     display: flex;*/
     vertical-align: middle;
-    font-size: 28px;
+    font-size: 35px;
 }
-
+figure.effect-bubba h6 smallsize{
+    font-size: 25px;
+}
 figure.effect-bubba img {
 	opacity: 1;
 	-webkit-transition: opacity 0.35s;
@@ -331,7 +332,7 @@ figure.effect-bubba h4 {
 figure.effect-bubba h4 {
 	padding-top: 10%;
   font-weight: 300;
-  font-size: 1.2em;
+  font-size: 1.5em;
 	-webkit-transition: -webkit-transform 0.35s;
 	transition: transform 0.35s;
 	opacity: 0;
